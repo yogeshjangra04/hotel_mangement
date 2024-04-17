@@ -1,5 +1,5 @@
 import mysql.connector as sqlCon
-myHotel = sqlCon.connect(host = 'localhost', user = 'root', passwd = 'tetraacetyl', database = 'Hotel_Management')
+myHotel = sqlCon.connect(host = 'localhost', user = 'root', passwd = '', database = 'Hotel_Management')
 if myHotel.is_connected() == True:
     print(" ")
     print("\t\t\t\t\t\t WELCOME TO HOTEL Atlante Plaza\n")
