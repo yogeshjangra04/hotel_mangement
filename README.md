@@ -196,7 +196,6 @@ G132                 Boibaswata Chakraborty M                    17             
 G133                 Shreyash Chanda      M                    18                   Kolkata, India       +91 9012390123
 
 ->3
-
 Room_Type                Room_Rent
 
 Deluxe AC(Double)        $ 932
